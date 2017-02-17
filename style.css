@@ -1,0 +1,22 @@
+/*style.css*/
+
+*{
+    font-family: Consolas, Monospace;
+}
+
+.imageCaption{
+    font-size: 12px;
+	color: orangered;
+}
+
+.hotlink{
+	color: navy;
+}
+
+.usefullink{
+	color: orangered;
+}
+
+h1{
+	color: black;
+}
