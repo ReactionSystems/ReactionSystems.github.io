@@ -1,7 +1,7 @@
 /*style.css*/
 
 *{
-    font-family: Consolas, Monospace;
+    font-family: Consolas;
 }
 
 .imageCaption{
@@ -10,11 +10,11 @@
 }
 
 .hotlink{
-	color: navy;
+	color: royalblue;
 }
 
 .usefullink{
-	color: red;
+	color: royalblue;
 }
 
 h1{
